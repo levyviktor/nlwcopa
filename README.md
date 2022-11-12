@@ -75,7 +75,7 @@ $ npm run dev
 
 ```
 
-:mobile_phone: Mobile
+📲 Mobile
 
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
